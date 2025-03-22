@@ -22,7 +22,7 @@ https://github.com/pozh/Initio/issues
 Credits
 -------
 * Design and development: **Sergey Pozhilov** - http://pozhilov.com
-* More free templates by Sergey: http://gettemplate.com
+* More free templates by Sergey: http://gettemplate.com.
 
 Photos used in the template
 -------
